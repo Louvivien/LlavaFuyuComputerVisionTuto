@@ -1,0 +1,5 @@
+streamlit 
+replicate 
+imgurpython
+python-dotenv
+
